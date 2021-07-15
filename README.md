@@ -20,7 +20,7 @@ Para aplicar um desafio para um candidato, siga o passos abaixo:
   2. Adicione somente o candidato como colaborador nesse repositório recem criado
   3. Informe que o candidato deverá submeter um Pull Request com todo o código relacionado ao desafio
   4. Faça a review do código do canditado, forneça feedbacks!
-  5. Quando a vaga for preenchida, delete ou arquive o repositório. 
+  5. Quando a vaga for preenchida, **arquive** o repositório. 
 
 Repositórios esquecidos abertos com mais de 2 meses serão deletados. :)
 
